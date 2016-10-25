@@ -1,7 +1,5 @@
 # An Analytical SQL Engine (ASE) for Hadoop #
 
-#### Project contact: [Zhihui Li] (mailto:zhihui.li@intel.com), [Jason Dai](mailto:jason.dai@intel.com)
-
 ---
 ### OVERVIEW ###
 
